@@ -8,6 +8,6 @@ pnpm i
 pnpm dev
 ```
 ### Build
-```
+``` sh
 pnpm build
 ```
